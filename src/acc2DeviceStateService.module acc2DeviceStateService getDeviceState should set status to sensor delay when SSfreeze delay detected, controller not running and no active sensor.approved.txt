@@ -1,0 +1,9 @@
+{
+    "style": "sensor-delay-state",
+    "title": "Sensor Delay",
+    "statusPriority": 20,
+    "daysOff": 3,
+    "sensors": "Solar Sync Freeze",
+    "activeSubStatuses": [],
+    "lastChecked": "1970-01-01T00:00:00.000Z"
+}
